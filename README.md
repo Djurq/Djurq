@@ -1,8 +1,8 @@
 ### Hello👋
 I am Djurre Bax from the Netherlands, I am 19 years old and I am in my 3rd year University where I study ICT.
-I really enjoy learning new things in ICT. My favorite things to code are ui and logic, and I really love coding challenges.
+I really enjoy learning new things in ICT. My favorite things to code are UI and Logic, and I really love coding challenges.
 
-## Fun facts
+## Fun Facts
 In my free time I like to read books, game with my friends and watch movies.
 
 ## Languages and Tools
