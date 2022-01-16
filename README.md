@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello👋
+I am Djurre Bax from the Netherlands, I am 19 years old and in my 3rd year University where I study ICT.
+I really enjoy learning new things in ICT. My favorite things to code are ui and logic, and I really love coding challenges.
+
+##Skills and Experience
+* 📱 Flutter
+* 📦 Vue
+* 💻 HTML, CSS, JS
+
+
+
 
 <!--
 **Djurq/Djurq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +21,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
