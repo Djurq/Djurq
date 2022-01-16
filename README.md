@@ -12,7 +12,7 @@ In my free time I like to read books, game with my friends and watch movies.
 
 ## Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/djurre bax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djurre bax" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/djurre-bax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djurre bax" height="30" width="40" /></a>
 </p>
 
 
