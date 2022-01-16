@@ -5,7 +5,15 @@ I really enjoy learning new things in ICT. My favorite things to code are ui and
 ## Skills and Experience
 * 📱 Flutter
 * 📦 Vue
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS, Java, SQL
+
+## Fun facts
+In my free time I like to read books, game with my friends and watch movies.
+
+
+
+
+
 
 
 
